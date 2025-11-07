@@ -1,0 +1,5 @@
+### Start a new job
+POST http://localhost:7071/api/start-job
+
+### Check job status 
+GET http://localhost:7071/api/job-status/[job id]
